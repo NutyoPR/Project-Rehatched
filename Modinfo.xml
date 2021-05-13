@@ -1,5 +1,5 @@
-<mod displayName="ProjectRehatched" unique="!!!!!!!ReHatched_Project" description="Project Rehatched a graphical overhaul" installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+<mod displayName="ProjectRehatched" unique="PRehatched3.0.3" description="Project Rehatched a graphical overhaul" installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
 <componentGroup unique="PR" displayName="Project_Rehatched">
 </componentGroup>
-<remove game="GalacticAdventures">!!!!!!!ReHatched_Project</remove>
+<remove game="GalacticAdventures">PRehatched3.0.3</remove>
 </mod>
